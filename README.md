@@ -1,4 +1,4 @@
-# Bootcamp Day 1
+# assessment-1
 
 This repository encompasses some basic concepts of HTML, CSS and the Bootstrap Framework through the use of an “Online Resume”.
 
