@@ -1,6 +1,6 @@
-# assessment-1
+# Assessment-1
 
-This repository encompasses some basic concepts of HTML, CSS and the Bootstrap Framework through the use of an “Online Resume”.
+This repository is for providing information about basics of internet and Http
 
 
 ## Prerequisites
